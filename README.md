@@ -1,2 +1,0 @@
-# ribat-project
-Graduation Project
